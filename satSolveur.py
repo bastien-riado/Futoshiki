@@ -3,6 +3,8 @@ from z3 import *
 from time import *
 
 
+
+
 def donner_solution():
     """
     Cette fonction donne la solution de l'ensemble de clause contenu dans le fichier
