@@ -1,6 +1,6 @@
 Pour utiliser le 3 sat-solveur,
 il suffit d'exécuter le fichier "main.py".
-(le faire dans un IDE, VS Code de préférence)
+(il vous faut avant tout, installer le "z3" sat-solver et le mettre dans le dossier principal : https://github.com/z3prover/z3)
 Une fenêtre graphique s'ouvrira et vous pourrez respectivement:
     "Vérifier" que l'arrangement du jeu actuel a une solution ou non
     "Enregistrer" une grille que vous aurez faite manuellement
